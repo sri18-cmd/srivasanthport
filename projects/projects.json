@@ -1,17 +1,17 @@
 [
   {
-    "name": "Linked In",
-    "desc": "It's my linked in profile (Testing)",
-    "image": "linkedin",
+    "name": "Typing Kudos",
+    "desc": "Its my 1st project did using python",
+    "image": "typing kudos",
     "category": "category",
     "links": {
-      "view": "https://www.linkedin.com/in/srivasanthvutukuri/",
-      "code": "https://www.linkedin.com/in/srivasanthvutukuri/"
+      "view": "https://github.com/jaggu427/Typing_kudos",
+      "code": "https://github.com/jaggu427/Typing_kudos/blob/main/typing%20kudos.py"
     }
   },
 
   {
-     "name": "Typing Kudos",
+     "name": "",
      "desc": "Python Based Typing Test",
      "image": "typing kudos",
      "category": "python",
